@@ -1,5 +1,7 @@
 # S2R Template
 
+> **Тип репозитория:** `Format`
+
 > **Для AI-агентов:** Этот репозиторий — **промпт-шаблон** для создания проектных хранилищ. Используйте документы из `0.OPS/` как инструкции для развёртывания структуры под конкретный проект пользователя.
 
 SRR (Systems–Roles Repository): a multi-kernel systems×roles (3×3) project repository template aligned with FPF
