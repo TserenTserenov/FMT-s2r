@@ -14,6 +14,18 @@
 
 ---
 
+## 1.1. Fallback Chain
+
+```
+1. Этот репо (спецификация S2R)
+2. SPF (форма и процесс) → ~/Github/SPF/
+3. FPF (первые принципы) → ~/Github/FPF/ (только если нет в SPF)
+```
+
+**Правило:** Если чего-то нет на текущем уровне — смотри выше.
+
+---
+
 ## 2. Что такое S2R
 
 **S2R** = Structured Second-level Repository = Systems–Roles Repository (SRR)
